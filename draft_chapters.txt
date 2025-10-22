@@ -14,7 +14,6 @@ Teria algo a acrescentar?
 
 Parte I: Introdução e Fundamentos
 
-Capítulo	Tópico Principal	Subtópicos Sugeridos
 Capítulo 1	Introdução ao Go	Breve História do Go (quem criou, por que), Filosofia e Objetivos da Linguagem (simplicidade, concorrência, performance), Onde o Go é usado hoje (Docker, Kubernetes, Microserviços).
 Capítulo 2	Primeiros Passos e Ambiente	Instalação e Configuração do Go, $GOPATH (e a evolução para módulos), Seu Primeiro Programa (Hello, World!), Compilação e Execução de Código (go build, go run).
 Capítulo 3	Sintaxe Básica e Tipos de Dados	Pacotes (package main, import), Variáveis e Constantes (var, const, inferência de tipo :=), Tipos de Dados Primitivos (inteiros, floats, booleans, strings), Zero Values.
@@ -23,7 +22,6 @@ Capítulo 5	Funções	Declaração de Funções (sintaxe), Múltiplos Retornos, 
 
 Parte II: Estruturas de Dados e Orientação a Objetos em Go
 
-Capítulo	Tópico Principal	Subtópicos Sugeridos
 Capítulo 6	Tipos Compostos	Arrays (tamanho fixo), Slices (dinâmicos, make, append, len, cap), Maps (criação, acesso, iteração, verificação de existência), Range.
 Capítulo 7	Ponteiros	O que são ponteiros, Declaração e Operações (&, *), Uso de ponteiros em Go (embora menos que em C, são cruciais), Quando usá-los (especialmente com structs).
 Capítulo 8	Structs e Métodos	Definição de structs, Fields (campos), Métodos (funções anexadas a um tipo), Receivers de Valor vs. Ponteiro.
@@ -31,7 +29,6 @@ Capítulo 9	Interfaces e Polimorfismo	O que são Interfaces e como são usadas e
 
 Parte III: Concorrência e Gerenciamento de Erros
 
-Capítulo	Tópico Principal	Subtópicos Sugeridos
 Capítulo 10	Tratamento de Erros e Logs	O padrão de erro do Go (retorno de múltiplos valores, sendo um error), Criação de Erros Personalizados (errors.New, fmt.Errorf), Panic e Recover (e o uso idiomático de error em vez de panic), Logging Simples (log package).
 Capítulo 11	Concorrência com Goroutines	O que é Concorrência (vs. Paralelismo), Goroutines (o que são e como iniciar), O Modelo de Concorrência do Go (CSP: Communicating Sequential Processes), O runtime e o scheduler do Go (breve).
 Capítulo 12	Comunicação com Channels	O que são Channels, Envio e Recebimento de Dados, Channels Não-Bufferizados vs. Bufferizados, Sincronização e Bloqueio, O comando select (multiplexação).
@@ -39,7 +36,6 @@ Capítulo 13	Sincronização Avançada	Sincronização com sync.WaitGroup, Mutex
 
 Parte IV: Desenvolvimento de Aplicações e Tópicos Avançados
 
-Capítulo	Tópico Principal	Subtópicos Sugeridos
 Capítulo 14	Organização de Código e Módulos	Gerenciamento de Dependências com Go Modules (go mod init, go get, go tidy), Convenções de Nomenclatura (pacotes, variáveis, visibilidade), Layout de Projeto (Ex: Standard Go Project Layout).
 Capítulo 15	Testes e Benchmarks	Testes Unitários (go test), Estrutura de Testes (arquivos _test.go), Funções de Teste, Testes de Tabela, Testes de Cobertura (go test -cover), Benchmarks (go test -bench).
 Capítulo 16	I/O e Sistema de Arquivos	Leitura e Escrita de Arquivos (pacote os), Manipulação de Caminhos (pacote path/filepath), Leitura/Escrita Formatada (fmt), Codificação/Decodificação de JSON (pacote encoding/json).
