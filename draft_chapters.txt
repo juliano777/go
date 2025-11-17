@@ -4,14 +4,6 @@
 Go Lang
 
 
-Eu gostaria de escrever uma apostila de Go.
-Mas para isso gostaria de primeiro ter a estrutura de capítulos.
-Desde uma breve história na introdução até tópicos mais avançados. 
-
-O que acha da seguinte organização?
-Teria algo a acrescentar?
-
-
 Parte I: Introdução e Fundamentos
 
 Capítulo 1	Introdução ao Go	Breve História do Go (quem criou, por que), Filosofia e Objetivos da Linguagem (simplicidade, concorrência, performance), Onde o Go é usado hoje (Docker, Kubernetes, Microserviços).
