@@ -36,8 +36,6 @@ Capítulo 18	Tópicos Avançados e Idiomas	Generics (introdução), Reflection (
 
 === ChatGPT ==================================================================
 
-O que está excelente
-
 A separação por partes (fundamentos → estruturas → concorrência → tópicos avançados) é perfeita.
 
 A ordem é naturalmente pedagógica: ensina tipos, structs e interfaces antes de chegar em concorrência.
@@ -52,10 +50,6 @@ Parte I — Introdução e Fundamentos
 Adicione um Capítulo 0 (Pré-requisitos e Filosofia Go)
 
 O que é necessário saber antes de começar (lógica, noções de compilação, terminal).
-
-Diferenças de paradigma: Go ≠ Python/Java/C++.
-
-A filosofia “less is more” e “don’t communicate by sharing memory, share memory by communicating”.
 
 Introdução rápida ao toolchain (go build, go fmt, go vet, go doc).
 
