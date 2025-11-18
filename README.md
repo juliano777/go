@@ -1,1 +1,1 @@
-# Apostila de Go / Golang
+# Apostila de Go
