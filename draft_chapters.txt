@@ -3,7 +3,6 @@
 
 Go Lang
 
-
 Parte I: Introdução e Fundamentos
 
 Capítulo 2	Primeiros Passos e Ambiente	Instalação e Configuração do Go, $GOPATH (e a evolução para módulos), Seu Primeiro Programa (Hello, World!), Compilação e Execução de Código (go build, go run).
