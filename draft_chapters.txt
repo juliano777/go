@@ -5,8 +5,7 @@ Go Lang
 
 Parte I: Introdução e Fundamentos
 
-Capítulo 2	Primeiros Passos e Ambiente	Instalação e Configuração do Go, $GOPATH (e a evolução para módulos), Seu Primeiro Programa (Hello, World!), Compilação e Execução de Código (go build, go run).
-Capítulo 3	Sintaxe Básica e Tipos de Dados	Pacotes (package main, import), Variáveis e Constantes (var, const, inferência de tipo :=), Tipos de Dados Primitivos (inteiros, floats, booleans, strings), Zero Values.
+
 Capítulo 4	Estruturas de Controle de Fluxo	Condicionais (if, else, else if), Laços de Repetição (for como única estrutura de laço), Controle de Fluxo de Laços (break, continue), switch (com e sem expressão).
 Capítulo 5	Funções	Declaração de Funções (sintaxe), Múltiplos Retornos, Parâmetros e Valores de Retorno Nomeados, Funções Variádicas, Funções Anônimas e Closures, defer.
 
